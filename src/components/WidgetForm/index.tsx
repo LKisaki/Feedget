@@ -62,7 +62,7 @@ export function WidgetForm() {
             )}
 
             <footer className="text-xs text-neutral-400">
-                Desenvolvido por <a className="underline underline-offset-2" href="https://instagram.com.br/lkisaki">Luan Kisaki</a>
+                Desenvolvido por <a className="underline underline-offset-2" href="https://www.linkedin.com/in/luan-kisaki-lukisoft/">Luan Kisaki</a>
             </footer>
         </div>
     );
